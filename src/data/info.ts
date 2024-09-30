@@ -84,7 +84,7 @@ export const info = {
       title: "Personal Portfolio",
       isFeatured: true,
       thumbnail: "/assets/images/thumbnail.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      githubUrl: "https://github.com/waleedwalee/Portfolio-Website.git",
       liveUrl: "https://portfolio-waleedabdullah.netlify.app/",
     },
   ],
