@@ -85,7 +85,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/thumbnail.png",
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      liveUrl: "https://portfolio-waleedabdullah.netlify.app/",
     },
   ],
 };
